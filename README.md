@@ -1,4 +1,4 @@
-# blackscissor front-end website using
+# simple "blackscissor" front-end website using
 # HTML
 # CSS
 # JavaScript
