@@ -3,4 +3,4 @@
 #### CSS3
 #### JavaScript6
 
-### Development link : https://renishsalakhana.github.io/blackscissor/
+### Deployed via : https://renishsalakhana.github.io/blackscissor/
